@@ -1,5 +1,5 @@
 const axios = require('axios');
-
+ 
 module.exports = {
     name: 'havadurumu',
     description: 'Verilen konumun hava durumunu gösterir',
