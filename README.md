@@ -18,7 +18,7 @@ Token vb. ayarladıktan sonra kaydetmeyi unutmayın :></br>
     </b><br>
  
   <b>nodemon node index.js</b>
-    <br>
+    <br><br>
 Komutlar klasör'ü ayrı ayrı kategorilere ayırılmıştır ve otomatik olarak yardım menüsüne gelmektedir<br>
 
 
