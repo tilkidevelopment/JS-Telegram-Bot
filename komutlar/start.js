@@ -8,7 +8,7 @@ Komutlarıma bakmak için /yardim yaz!`;
         ctx.replyWithPhoto(
             { url: resimLinki },
             {
-                caption: mesaj,
+                caption: mesaj, 
             }
         );
     }
